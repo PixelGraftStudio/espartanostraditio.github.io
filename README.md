@@ -433,7 +433,7 @@ footer{background:var(--ink); color:var(--paper-2); padding:80px 0 0; margin-top
 <div class="utility-bar">
   <div class="wrap">
     <div class="ubar-links">
-      <a href="mailto:info@espartanostraditio.com">info@espartanostraditio.com</a>
+      <a href="mailto:espartanostraditioslu@gmail.com">info@espartanostraditio.com</a>
       <a href="tel:+34722513424">+34 722 51 34 24</a>
     </div>
     <span class="ubar-tag">Hecho en España · Envíos a toda España</span>
